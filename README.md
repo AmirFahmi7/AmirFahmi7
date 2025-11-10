@@ -41,4 +41,4 @@ I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Dat
 ## GitHub Stats  
 
 ![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirFahmi7&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirFahmi7&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirFahmi7&layout=compact&theme=tokyonight)
