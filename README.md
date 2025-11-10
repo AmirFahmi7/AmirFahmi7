@@ -19,7 +19,7 @@ I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Dat
 
 ## Tools
 
-[![My Skills](https://skillicons.dev/icons?i=R,Python,Excel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=R,python,excel)](https://skillicons.dev)
 
 
 ## Featured Projects
