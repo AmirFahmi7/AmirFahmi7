@@ -44,3 +44,5 @@ I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Dat
   <img src="https://github-readme-stats.vercel.app/api?username=ameerahrazali&show_icons=true&theme=github_dark&cache_seconds=3600" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameerahrazali&layout=compact&theme=github_dark&cache_seconds=3600" width="48%" />
 </p>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
+| ------------- | ------------- |
