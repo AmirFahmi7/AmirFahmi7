@@ -19,7 +19,29 @@ I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Dat
 
 ## Language & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=r,python,c++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,python,cpp)](https://skillicons.dev)
+## 🧠 Technical Skills
+
+**Programming Languages:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+**Data Visualization & Analytics Tools:**  
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![RapidMiner](https://img.shields.io/badge/RapidMiner-FF8C00?style=flat&logo=rapidminer&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
+
+**Statistical & Data Science Tools:**  
+![SAS](https://img.shields.io/badge/SAS-004B93?style=flat&logo=sas&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-0072C6?style=flat&logo=ibm&logoColor=white)
+
+**Databases:**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
 <!-- 
 ## Featured Projects
