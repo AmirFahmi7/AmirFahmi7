@@ -1,4 +1,4 @@
-# Hi, I'm Ameerah
+# Hi, I'm Amir Fahmi
 
 [![GitHub followers](https://img.shields.io/github/followers/ameerahrazali?style=social)](https://github.com/ameerahrazali)
 [![GitHub stars](https://img.shields.io/github/stars/ameerahrazali?style=social)](https://github.com/ameerahrazali?tab=repositories)
