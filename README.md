@@ -10,10 +10,10 @@ I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Dat
 
 ## Areas of Focus
 
-- Data analysis and visualization  
-- Dashboard development  
-- Statistical and time series modeling  
-- Data cleaning and transformation  
+- Data analysis & visualization  
+- Interactive dashboard development  
+- Statistical and predictive modeling  
+- Data validation & quality assurance  
 
 ---
 
