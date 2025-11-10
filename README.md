@@ -19,10 +19,10 @@ I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Dat
 <!--
 ## Language & Tools
 [![My Skills](https://skillicons.dev/icons?i=r,python,cpp)](https://skillicons.dev)
+-->
+
 ## 🧠 Technical Skills
 
----
--->
 **Programming Languages:**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
