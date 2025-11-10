@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/AmirFahmi7?style=social)](https://github.com/AmirFahmi7?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=AmirFahmi7&color=blue)](https://github.com/AmirFahmi7)
 
-I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Data Analytics. I am passionate about mathematics and statistics, and I thrive in collaborative environments where I can demonstrate my strong leadership skills. During my time at university, I actively participate in competitions related to statistics, challenging myself to grow and learn. I also believe in giving back to the community and have participated in various volunteer programs. I am always eager to embrace new challenges and opportunities for personal and professional growth
+I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Data Analytics. I am passionate about mathematics and statistics, and I thrive in collaborative environments where I can demonstrate my strong leadership skills. I am always eager to embrace new challenges and opportunities for personal and professional growth
 
 ---
 
