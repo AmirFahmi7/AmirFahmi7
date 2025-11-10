@@ -21,9 +21,9 @@ I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Dat
 
 [![My Skills](https://skillicons.dev/icons?i=r,python,spss)](https://skillicons.dev)
 
-
-## Featured Projects
 <!-- 
+## Featured Projects
+
 | Project | Tool(s) | Key Techniques |
 |--------|---------|----------------|
 | [MLB Analysis]() | `SQL`, `Tableau` | `CTEs`, `subqueries`, `window functions`, Tableau storytelling |
