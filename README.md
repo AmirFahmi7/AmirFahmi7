@@ -1,4 +1,4 @@
-# Hi, I'm Amir Fahmi
+# Hey there! I’m Amir Fahm
 
 [![GitHub followers](https://img.shields.io/github/followers/AmirFahmi7?style=social)](https://github.com/AmirFahmi7)
 [![GitHub stars](https://img.shields.io/github/stars/AmirFahmi7?style=social)](https://github.com/AmirFahmi7?tab=repositories)
