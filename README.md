@@ -70,3 +70,14 @@ I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Dat
 
 ![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirFahmi7&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirFahmi7&layout=compact&theme=tokyonight)
+
+---
+
+## Links
+<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
+     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
+- [**Contact**](amirfahmi371@gmail.com)
+
+<a href="https://www.linkedin.com/in/amirfahmi07/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
