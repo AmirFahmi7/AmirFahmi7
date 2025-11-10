@@ -16,12 +16,13 @@ I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Dat
 - Data validation & quality assurance  
 
 ---
-
+<!--
 ## Language & Tools
-
 [![My Skills](https://skillicons.dev/icons?i=r,python,cpp)](https://skillicons.dev)
 ## 🧠 Technical Skills
 
+---
+-->
 **Programming Languages:**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -42,19 +43,6 @@ I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Dat
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-
-
-## 🧠 Technical Skills
-
-### Programming Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/> 
-
-### Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/> 
 
 <!-- 
 ## Featured Projects
