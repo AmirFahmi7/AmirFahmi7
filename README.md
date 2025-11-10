@@ -23,7 +23,7 @@ I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Dat
 
 
 ## Featured Projects
-<--
+<!-- 
 | Project | Tool(s) | Key Techniques |
 |--------|---------|----------------|
 | [MLB Analysis]() | `SQL`, `Tableau` | `CTEs`, `subqueries`, `window functions`, Tableau storytelling |
@@ -33,7 +33,6 @@ I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Dat
 | [CPI Forecasting & Regression]() | `Python` | `ARIMA`, backward stepwise regression |
 | [Reddit Sentiment Analysis]() | `Python`, `NLTK` | VADER sentiment analysis, text preprocessing, sentiment scoring |
 | [Boston Public Safety Dashboard]() | `Power BI`, `Excel` | Interactive visuals, spatial mapping, temporal analysis |
-
 -->
 ---
 
