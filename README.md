@@ -1,10 +1,10 @@
 # Hi, I'm Amir Fahmi
 
-[![GitHub followers](https://img.shields.io/github/followers/ameerahrazali?style=social)](https://github.com/ameerahrazali)
-[![GitHub stars](https://img.shields.io/github/stars/ameerahrazali?style=social)](https://github.com/ameerahrazali?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=ameerahrazali&color=blue)](https://github.com/ameerahrazali)
+[![GitHub followers](https://img.shields.io/github/followers/AmirFahmi7?style=social)](https://github.com/AmirFahmi7)
+[![GitHub stars](https://img.shields.io/github/stars/AmirFahmi7?style=social)](https://github.com/AmirFahmi7?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=AmirFahmi7&color=blue)](https://github.com/AmirFahmi7)
 
-I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Data Analytics. My work focuses on data storytelling, dashboard development, and applying statistical methods to real-world problems. I’m especially interested in how people, data, and processes interact to drive meaningful change in organizations.
+I'm a Statistics graduate from Universiti Teknologi MARA with a minor in Big Data Analytics. I am passionate about mathematics and statistics, and I thrive in collaborative environments where I can demonstrate my strong leadership skills. During my time at university, I actively participate in competitions related to statistics, challenging myself to grow and learn. I also believe in giving back to the community and have participated in various volunteer programs. I am always eager to embrace new challenges and opportunities for personal and professional growth
 
 ---
 
